@@ -48,6 +48,81 @@ Passionate about building efficient web applications with clean, maintainable co
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![InfinityFree](https://img.shields.io/badge/InfinityFree-00AEEF?style=for-the-badge)
 
+## 🛠️ Tech Stack
+
+### Backend Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" title="CodeIgniter 3"/>
+</p>
+
+**PHP • CodeIgniter 3 • MVC Architecture • AJAX Development • Authentication & Authorization**
+
+---
+
+### Frontend Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" title="jQuery"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+</p>
+
+**HTML5 • CSS3 • JavaScript • jQuery • Bootstrap • AJAX**
+
+---
+
+### Database
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+</p>
+
+**MySQL • Query Optimization • Stored Procedures • Database Design**
+
+---
+
+### Development Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" width="40" title="Sublime Text"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-original.svg" width="40" title="FileZilla"/>
+</p>
+
+**Git • GitHub • VS Code • Sublime Text • FileZilla • XAMPP • InfinityFree**
+
+---
+
+## 💼 What I Build
+
+🏢 Employee Management Systems
+
+💰 Payroll & Accounting Systems
+
+📊 Business Process Automation
+
+🗄️ Database-Driven Applications
+
+📈 Reporting & Analytics Modules
+
+⚙️ Enterprise Web Applications
+
+---
+
+## 🌱 Currently Learning
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" title="Laravel"/>
+</p>
+
+**Laravel • REST APIs • Modern PHP Practices • Cloud Deployment • DevOps Fundamentals**
+
 <h2 align="center">⚒️ Tech Stack</h2>
 
 <p align="center">
