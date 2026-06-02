@@ -1,8 +1,9 @@
 <!-- Banner / GIF Section -->
 <p align="center">
-  <img src="https://github.com/systpro03/png/blob/main/programming.gif" width="30%" height="30%" alt="Banner">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 </p> 
-# Hi, I'm [Gilby Clarke R. Gualde] 👋
+## Hi, I'm [Gilby Clarke R. Gualde] 👋
 
 ## PHP Developer | CodeIgniter Specialist | Database Developer
 
