@@ -11,6 +11,15 @@
 Passionate about building efficient web applications with clean, maintainable code. I specialize in front-end development, database design, employee management systems, and business process automation.
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GiB07&label=Profile%20Views&color=1a1b27&style=for-the-badge">
+</p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GiB07/GiB07/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 ## 🚀 About Me
 
@@ -103,8 +112,20 @@ Passionate about building efficient web applications with clean, maintainable co
 > "Clean code, efficient systems, and continuous improvement."
 >
 >### ?? GitHub Stats
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiB07&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiB07&theme=radical" alt="GitHub streak" height="160"/>
-</p> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GiB07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GiB07&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiB07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GiB07&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
