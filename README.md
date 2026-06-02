@@ -41,6 +41,10 @@ Strong believer in structured code, stable architecture, and long-term maintaina
   <img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,mysql,html,css,js,jquery,bootstrap,git,github,vscode&perline=6" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiB07&theme=react-dark&hide_border=true">
+</p>
+
 ---
 
 <!-- ===================== EXPERTISE ===================== -->
