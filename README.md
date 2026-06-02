@@ -41,10 +41,6 @@ Strong believer in structured code, stable architecture, and long-term maintaina
   <img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,mysql,html,css,js,jquery,bootstrap,git,github,vscode&perline=6" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiB07&theme=react-dark&hide_border=true">
-</p>
-
 ---
 
 <!-- ===================== EXPERTISE ===================== -->
@@ -108,6 +104,10 @@ Laravel • REST APIs • Modern PHP Architecture • Cloud Deployment • DevOp
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GiB07/GiB07/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiB07&theme=react-dark&hide_border=true">
 </p>
 
 ---
