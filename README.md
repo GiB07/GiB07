@@ -12,15 +12,28 @@ Passionate about building efficient web applications with clean, maintainable co
 
 ---
 
-## 💼 About Me
-
-- 🔹 PHP Developer with experience in enterprise web applications
-- 🔹 Strong background in CodeIgniter 3 development
-- 🔹 Experienced in MySQL database design and optimization
-- 🔹 Building accounting and employee management systems
-- 🔹 Skilled in Jquery and backend integrations
-- 🔹 Focused on performance, scalability, and clean architecture
-- 🔹 Continuously learning modern web development technologies
+## 🚀 About Me
+$developer = [
+    "name" => "Gilby Clarke R. Gualde",
+    "role" => "PHP Developer",
+    "specialization" => [
+        "CodeIgniter 3",
+        "MySQL Database Design",
+        "Business Applications",
+        "Employee Management Systems",
+        "Accounting Systems"
+    ],
+    "currently_learning" => [
+        "Laravel",
+        "REST APIs",
+        "Cloud Deployment"
+    ]
+];
+💻 Developing business-focused web applications
+🏢 Experienced in accounting and employee management systems
+🗄️ Strong background in database design and optimization
+⚡ Focused on clean, maintainable, and scalable code
+📈 Passionate about process automation and productivity tools
 
 ---
 
