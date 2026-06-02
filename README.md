@@ -115,7 +115,7 @@ Passionate about building efficient web applications with clean, maintainable co
 > <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GiB07&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.herokuapp.com/api?username=GiB07&show_icons=true&theme=tokyonight&hide_border=true"/>
 
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GiB07&theme=tokyonight&hide_border=true"/>
 </p>
