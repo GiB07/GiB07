@@ -4,7 +4,7 @@
 <br><br>
 </p> 
 <!-- Greeting -->
-<h1 align="center">Hey there, I'm <a href="https://github.com/GiB07" target="_blank">Gilby Clarke R. Gualde</a> ??</h1> 
+<h1 align="center">Hey there, I'm <a href="https://github.com/GiB07" target="_blank">Gilby Clarke R. Gualde</a>😎</h1> 
 
 ## PHP Developer | CodeIgniter Specialist | Database Developer
 
