@@ -41,6 +41,12 @@ Strong believer in structured code, stable architecture, and long-term maintaina
   <img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,mysql,html,css,js,jquery,bootstrap,git,github,vscode&perline=6" />
 </p>
 
+<p align="center">
+  <a href="https://codeigniter.com" target="_blank">
+    <img src="https://githubusercontent.com" alt="CodeIgniter 3 Logo" width="200">
+  </a>
+</p>
+
 ---
 
 <!-- ===================== EXPERTISE ===================== -->
