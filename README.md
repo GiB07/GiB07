@@ -48,57 +48,11 @@ Passionate about building efficient web applications with clean, maintainable co
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![InfinityFree](https://img.shields.io/badge/InfinityFree-00AEEF?style=for-the-badge)
 
-## 🛠️ Technical Skills
+<h2 align="center">⚒️ Tech Stack</h2>
 
-### Backend
-- PHP
-- CodeIgniter 3
-- MVC Architecture
--  jQuery's AJAX API Development
-- Authentication & Authorization
-
-### Database
-- MySQL
-- Query Optimization
-- Stored Procedures
-- Database Design
-
-### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- jQuery
-- AJAX
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- XAMPP
-- InfinityFree
-- FileZilla
-
----
-
-## 📊 What I Work On
-
-- In-house Web Applications
-- Payroll Systems
-- Employee Management Platforms
-- Accounting Modules
-- Database Optimization
-- Business Process Automation
-
----
-
-## 🌱 Currently Learning
-
-- Laravel
-- Modern PHP Practices
-- API Development
-- Cloud Deployment
-- DevOps Fundamentals
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,jquery,bootstrap,mysql,git,github,vscode,laravel&perline=6" />
+</p>
 
 ---
 
