@@ -38,7 +38,7 @@ Strong believer in structured code, stable architecture, and long-term maintaina
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,mysql,html,css,js,jquery,bootstrap,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,codeigniter3,laravel,mysql,html,css,js,jquery,bootstrap,git,github,vscode&perline=6" />
 </p>
 
 ---
